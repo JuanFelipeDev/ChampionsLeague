@@ -15,16 +15,7 @@ import android.widget.TextView;
 import androidx.core.content.ContextCompat;
 
 import com.example.championsleague.R;
-import com.example.championsleague.presentation.base.BaseApplication;
 import com.squareup.picasso.Picasso;
-
-import java.io.IOException;
-import java.lang.annotation.Annotation;
-
-import okhttp3.ResponseBody;
-import retrofit2.Converter;
-import retrofit2.Response;
-import retrofit2.Retrofit;
 
 public class Tools {
 

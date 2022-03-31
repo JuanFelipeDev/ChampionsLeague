@@ -104,7 +104,6 @@ class DetailTeamActivity : BaseActivity<DetailTeamContract.View, DetailTeamContr
             webInstagram,
             csPageInstagram, ContextCompat.getColor(this, R.color.purple_700)
         )
-
     }
 
     override fun setDataExtras(

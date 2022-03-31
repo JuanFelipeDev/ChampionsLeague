@@ -16,10 +16,10 @@
 
     <ImageView
         android:id="@+id/imgLogo"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:layout_marginStart="50dp"
-        android:layout_marginBottom="100dp"
+        android:layout_width="@dimen/dimen_img_anim"
+        android:layout_height="@dimen/dimen_img_anim"
+        android:layout_marginStart="@dimen/margin_large"
+        android:layout_marginBottom="@dimen/margin_extra_large"
         android:background="@drawable/logo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
