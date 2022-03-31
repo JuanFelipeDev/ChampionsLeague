@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChampionsLeague</string>
+    <string name="api_error">Notamos que la conexión de internet de tu dispositivo móvil está débil y no hemos podido validar alguna información</string>
+    <string name="label_url_web">Pagina oficial:</string>
+    <string name="label_url_facebook">Pagina de facebook:</string>
+    <string name="label_url_twitter">Pagina de twitter:</string>
+    <string name="label_url_instagram">Pagina de instagram:</string>
+    <string name="label_url_youtube">YouTube:</string>
+    <string name="label_name_team">Nombre del equipo:</string>
+    <string name="label_year">Fundado en el año:</string>
+    <string name="label_description">Descripcion del equipo:</string>
+    <string name="label_search_category">buscar_equipo</string>
+</resources>
