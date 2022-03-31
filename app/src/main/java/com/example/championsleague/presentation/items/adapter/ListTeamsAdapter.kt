@@ -59,7 +59,6 @@ class ListTeamsAdapter(
             } else {
                 val filterPattern = constraint.toString().toLowerCase(Locale.getDefault()).trim()
                 listTeams.filter { it.teamName.containsDeAccentLowCase(filterPattern) }
-                listTeams.filter { it.bornYear.containsDeAccentLowCase(filterPattern) }
             }
             results.values = list
             results.count = list.size
